@@ -1,6 +1,5 @@
 #
 # Name: Shriraj Patel
-# Class: CS341 11am (Ellen Kidane)
 # Overview: This is a python program that allows a user to input commands to fetch certain pieces of information from
 # the CTA2 L daily ridership database. Internally, it uses SQL queries to return this data as well as matplotlib to plot
 # that data when using specific commands.
